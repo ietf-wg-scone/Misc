@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 SCONE‐related Hackathons
 
 IETF#123 Hackathons
